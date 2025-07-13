@@ -1,6 +1,6 @@
 # DesignRush Agency Scraper
 
-This Node.js project scrapes agency/company data from [designrush.com/agency](https://www.designrush.com/agency) using Selenium and reads/writes data to Google Sheets.
+This Node.js project scrapes agency/company data from [designrush.com/agency](https://www.designrush.com) using Selenium and reads/writes data to Google Sheets.
 
 ## Features
 - Reads agency search parameters from a Google Sheet (`input` worksheet):
